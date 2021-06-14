@@ -12,7 +12,7 @@ ENC221-0314/2016
 		border: 1px solid #CCC;
 	}
 	td;
-		font-weight: bold;
+		font-weight: regular;
 	}
 </style>
 <table class="table">
