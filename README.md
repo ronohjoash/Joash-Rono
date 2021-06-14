@@ -5,12 +5,12 @@
 		border: 1px solid #CCC; 
 		font-family: Arial, Helvetica, sans-serif;
 	} 
-	.tableizer-table td {
+	td {
 		padding: 4px;
 		margin: 3px;
 		border: 1px solid #CCC;
 	}
-	.tableizer-table th {
+	th {
 		background-color: #104E8B; 
 		color: #FFF;
 		font-weight: bold;
