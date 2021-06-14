@@ -1,10 +1,40 @@
+RONO JOASH
+
 <html>
 <head>
+	
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+	<title></title>
+	<meta name="generator" content="https://conversiontools.io" />
+	<meta name="author" content="Joash"/>
+	<meta name="created" content="2021-06-14T10:34:48"/>
+	<meta name="changedby" content="kevin"/>
+	<meta name="changed" content="2021-06-14T10:34:48"/>
+	<meta name="AppVersion" content="15.0300"/>
+	<meta name="DocSecurity" content="0"/>
+	<meta name="HyperlinksChanged" content="false"/>
+	<meta name="LinksUpToDate" content="false"/>
+	<meta name="ScaleCrop" content="false"/>
+	<meta name="ShareDoc" content="false"/>
+	
+	<style type="text/css">
+		body,div,table,thead,tbody,tfoot,tr,th,td,p { font-family:"Calibri"; font-size:x-small }
+		a.comment-indicator:hover + comment { background:#ffd; position:absolute; display:block; border:1px solid black; padding:0.5em;  } 
+		a.comment-indicator { background:red; display:inline-block; border:1px solid black; width:0.5em; height:0.5em;  } 
+		comment { display:none;  } 
+	</style>
+	
 </head>
 
 <body>
 <table cellspacing="0" border="0">
-	
+	<colgroup width="64"></colgroup>
+	<colgroup width="86"></colgroup>
+	<colgroup width="157"></colgroup>
+	<colgroup width="46"></colgroup>
+	<colgroup width="117"></colgroup>
+	<colgroup width="1314"></colgroup>
+	<colgroup width="1894"></colgroup>
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="20" align="left" valign=bottom><font color="#000000">Moses</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">Kerama</font></td>
@@ -245,7 +275,7 @@
 		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">EN281-0600/2015</font></td>
 		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">GEGIS</font></td>
 		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">Prof. H Waithaka</font></td>
-		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">
+		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">A WEB APPLICATION FOR DATUM TRANSFORMATION BETWEEN WGS 84 GPS COORDINATES AND LOCAL CLARKE 1880 COORDINATES</font></td>
 		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">Transformations between coordinate systems are routinely carried out in surveying. As satellite positioning techniques are more frequently used transformations of three-dimensional (3D) coordinates will become a common practice. The main objective of this research was to develop a web based application for coordinate between the WGS 84 ellipsoid and the Clarke 1880 ellipsoid. The transformation parameters algorithms were developed in MATLAB software. The models were based on Geocentric 3 parameter model Bursa Wolf&ndash;7 parameters and Molodensky-Badekas 10 parameters. We used TransLT software to validate the parameters computed using Matlab and those from the developed web application. Our results show that the Molodensky-Badekas 10 Parameter Transformation Model performed better in transformation of coordinates between the two systems. Finally a web based coordinate transformation application was developed and implemented in Python.</font></td>
 	</tr>
 	<tr>
