@@ -11,8 +11,7 @@ ENC221-0314/2016
 		margin: 3px;
 		border: 1px solid #CCC;
 	}
-	th {
-		background-color: #104E8B; 
+	th { 
 		color: #FFF;
 		font-weight: bold;
 	}
