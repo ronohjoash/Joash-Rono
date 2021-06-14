@@ -29,6 +29,7 @@
 	<td style=min-width:50px>FLOOD SUSCEPTIBILITY MAPPING USING FREQUENCY RATIO</td>
 	<td style=min-width:50px>One of the most damaging natural disasters with socio-economic and environmental effects is flooding. Comprehensive flood control is therefore necessary in order to reduce the impact of flooding on human lives and livelihoods. The main objective of the current study is to investigate the application in Tana River County Kenya of the frequency ratio (FR) model for flood susceptibility mapping. A flood inventory map was initially prepared. In total the study area identified 100 flood locations. Of these 70 (70%) floods have been randomly chosen as training data and the remaining 30 (30%) cases have been used for validation purposes. In the next step from the spatial database flood conditioning variables such as lithology land use river distance soil texture slope angle slope aspect plan curvature topographic wetness index (TWI) and stream power index were prepared. Subsequently the receiver operating characteristic (ROC) curves were drawn for produced flood susceptibility maps and the area under the curves (AUCs) was computed. The final results indicated that the accuracy for the final flood susceptibility map was 78.6%. Therefore these flood susceptibility maps can be useful for researchers and planner in flood mitigation strategies.</td>
 </tr>
+	</table>
 <tr>
 						<td style=min-width:50px>Grace</td>
 						<td style=min-width:50px>Ochieng</td>
