@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-			<title>Excel To HTML using codebeautify.org</title>
-		</head>
-		<body>
-			<b>
-				<u>Sheet Name</u> :- JKUAT(GEGIS)-Projects
+<head>
+<meta charset="UTF-8">
+<title>Excel To HTML using codebeautify.org</title>
+</head>
+<body>
+<b>
+<u>Sheet Name</u> :- JKUAT(GEGIS)-Projects
 			
-			</b>
-			<hr>
-				<table cellspacing=0 border=1>
-					<tr>
-						<td style=min-width:50px>Moses</td>
-						<td style=min-width:50px>Kerama</td>
-						<td style=min-width:50px>EN281-2870/2014</td>
-						<td style=min-width:50px>GEGIS</td>
-						<td style=min-width:50px></td>
-						<td style=min-width:50px>EFFECTS OF LAND COVER PATTERN ON LAND SURFACE TEMPERATURE IN URBAN LANDSCAPES: A Case Study of Nairobi CBD</td>
-						<td style=min-width:50px>Rapid urbanization has led to increased land surface temperature (LST) and severe urban heat islands (UHIs). The impacts of land use/land cover (LULC) on LST have been extensively studied. However the differences between land use and land cover and their implications in an urban environment are often overlooked. This study aimed to study the effects from land use types and land cover patterns on LST along urbanization. The LST and LULC data of the study area were obtained from a Landsat ETM+ image and Landsat 8 OLI/TIRS respectively. Then landscape metrics were selected and calculated for analyzing the land cover patterns. Correlation analysis and regression analysis were undertaken to determine the relationship between LST and land cover patterns at the land use level. The results showed that it was inadequate to treat land cover as the single factor affecting LST. Furthermore LST values did not simply decrease along the urbanization at the land use level. Even though land cover patterns significantly affected LST land cover variables related to LST varied greatly among the various land use types. The findings in our study provide additional knowledge for optimizing land cover patterns associated with different land use types which may mitigate the adverse impacts of UHIs at a fine scale.</td>
-					</tr>
-					<tr>
-						<td style=min-width:50px>Samuel</td>
-						<td style=min-width:50px>Barasa</td>
-						<td style=min-width:50px>ENC222-0351/2016</td>
-						<td style=min-width:50px>GIS</td>
-						<td style=min-width:50px>Mr. C Wasomi</td>
-						<td style=min-width:50px>FLOOD SUSCEPTIBILITY MAPPING USING FREQUENCY RATIO</td>
-						<td style=min-width:50px>One of the most damaging natural disasters with socio-economic and environmental effects is flooding. Comprehensive flood control is therefore necessary in order to reduce the impact of flooding on human lives and livelihoods. The main objective of the current study is to investigate the application in Tana River County Kenya of the frequency ratio (FR) model for flood susceptibility mapping. A flood inventory map was initially prepared. In total the study area identified 100 flood locations. Of these 70 (70%) floods have been randomly chosen as training data and the remaining 30 (30%) cases have been used for validation purposes. In the next step from the spatial database flood conditioning variables such as lithology land use river distance soil texture slope angle slope aspect plan curvature topographic wetness index (TWI) and stream power index were prepared. Subsequently the receiver operating characteristic (ROC) curves were drawn for produced flood susceptibility maps and the area under the curves (AUCs) was computed. The final results indicated that the accuracy for the final flood susceptibility map was 78.6%. Therefore these flood susceptibility maps can be useful for researchers and planner in flood mitigation strategies.</td>
-					</tr>
-					<tr>
+</b>
+<hr>
+<table cellspacing=0 border=1>
+<tr>
+	<td style=min-width:50px>Moses</td>
+	<td style=min-width:50px>Kerama</td>
+	<td style=min-width:50px>EN281-2870/2014</td>
+	<td style=min-width:50px>GEGIS</td>
+	<td style=min-width:50px></td>
+	<td style=min-width:50px>EFFECTS OF LAND COVER PATTERN ON LAND SURFACE TEMPERATURE IN URBAN LANDSCAPES: A Case Study of Nairobi CBD</td>
+	<td style=min-width:50px>Rapid urbanization has led to increased land surface temperature (LST) and severe urban heat islands (UHIs). The impacts of land use/land cover (LULC) on LST have been extensively studied. However the differences between land use and land cover and their implications in an urban environment are often overlooked. This study aimed to study the effects from land use types and land cover patterns on LST along urbanization. The LST and LULC data of the study area were obtained from a Landsat ETM+ image and Landsat 8 OLI/TIRS respectively. Then landscape metrics were selected and calculated for analyzing the land cover patterns. Correlation analysis and regression analysis were undertaken to determine the relationship between LST and land cover patterns at the land use level. The results showed that it was inadequate to treat land cover as the single factor affecting LST. Furthermore LST values did not simply decrease along the urbanization at the land use level. Even though land cover patterns significantly affected LST land cover variables related to LST varied greatly among the various land use types. The findings in our study provide additional knowledge for optimizing land cover patterns associated with different land use types which may mitigate the adverse impacts of UHIs at a fine scale.</td>
+</tr>
+<tr>
+	<td style=min-width:50px>Samuel</td>
+	<td style=min-width:50px>Barasa</td>
+	<td style=min-width:50px>ENC222-0351/2016</td>
+	<td style=min-width:50px>GIS</td>
+	<td style=min-width:50px>Mr. C Wasomi</td>
+	<td style=min-width:50px>FLOOD SUSCEPTIBILITY MAPPING USING FREQUENCY RATIO</td>
+	<td style=min-width:50px>One of the most damaging natural disasters with socio-economic and environmental effects is flooding. Comprehensive flood control is therefore necessary in order to reduce the impact of flooding on human lives and livelihoods. The main objective of the current study is to investigate the application in Tana River County Kenya of the frequency ratio (FR) model for flood susceptibility mapping. A flood inventory map was initially prepared. In total the study area identified 100 flood locations. Of these 70 (70%) floods have been randomly chosen as training data and the remaining 30 (30%) cases have been used for validation purposes. In the next step from the spatial database flood conditioning variables such as lithology land use river distance soil texture slope angle slope aspect plan curvature topographic wetness index (TWI) and stream power index were prepared. Subsequently the receiver operating characteristic (ROC) curves were drawn for produced flood susceptibility maps and the area under the curves (AUCs) was computed. The final results indicated that the accuracy for the final flood susceptibility map was 78.6%. Therefore these flood susceptibility maps can be useful for researchers and planner in flood mitigation strategies.</td>
+</tr>
+<tr>
 						<td style=min-width:50px>Grace</td>
 						<td style=min-width:50px>Ochieng</td>
 						<td style=min-width:50px>ENC222-0350/2016</td>
