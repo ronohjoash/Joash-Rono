@@ -4,13 +4,7 @@
 
 <body>
 <table cellspacing="0" border="0">
-	<colgroup width="64"></colgroup>
-	<colgroup width="86"></colgroup>
-	<colgroup width="157"></colgroup>
-	<colgroup width="46"></colgroup>
-	<colgroup width="117"></colgroup>
-	<colgroup width="1314"></colgroup>
-	<colgroup width="1894"></colgroup>
+	
 	<tr>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="20" align="left" valign=bottom><font color="#000000">Moses</font></td>
 		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">Kerama</font></td>
@@ -507,7 +501,7 @@
 		<td style="border-bottom: 1px solid #000000; border-right: 1px solid #000000" align="left" valign=bottom><font color="#000000">Rising water levels in Kenya&rsquo;s rift valley lakes in the recent past has intrigued many researchers. Most of the lakes including Lake Nakuru the focus of the study have had their water levels rise disproportionately flooding most of the surrounding area and causing great havoc. Most of the research previously done have majorly focused on the contribution of the increasing rainfall and ignored the effects of human activities and other forces operating in the basins. Land surface deformation which is an indicator of the cumulative destructive activities of both human and tectonic forces has also interestingly been on the rise in the recent past. This study therefore in an attempt to unravel the mystery of the rising water levels investigated the rate of surface displacement and attempted to correlate it with the rising water levels. This research has successfully quantified the increase in surface area of Lake Nakuru from 2015 to 2020 it has further characterized the lake&rsquo;s basin. Surface displacement of the lake&rsquo;s basin has also been investigated to a limited level due to challenges in data processing While it is not very clear from the research whether the rate of surface displacement has been increasing over the years yet there is evidence of significant displacement during the period of study. Land subsidence in particular is predominant in the northern region of the Lake Nakuru basin while land uplift is more common in the southern region. This displacement pattern means most of the waters from the southern region drains into the northern region (where Lake Nakuru is situated) due to uplift and that the southern region subsiding is increasing its capacity to hold more water making it vulnerable to flooding. The land use type most associated with the displacement is built-up areas and there is also a slightly high concentration of lineaments in the area largely affected by subsidence. On the other hand the size of Lake Nakuru has definitely increased over the years (by 9.27km 2 ) particularly between 2019 and 2020 (by 5.86 km 2 ) and this is no surprise because of the displacement patterns. However the linkage between surface displacement and the flooding waters and the attributive factors of land displacement are still not well established from this research. Therefore further research should be done to establish the effects of built-up areas and lineaments (an evidence of tectonic movement and faulting) on surface displacement and the collective effects of surface displacement on the rising water levels.</font></td>
 	</tr>
 </table>
-<!-- ************************************************************************** -->
+
 </body>
 
 </html>
